@@ -1,0 +1,63 @@
+<?php
+
+// global object for custom functions and custom object members
+global $anticapcha;
+global $captchabot;
+global $app;
+global $windows;
+global $window;
+global $mouse;
+global $sound;
+global $debug;
+global $keyboard;
+global $clipboard;
+global $textfile;
+global $file_os;
+global $folder;
+global $table;
+//global $msword;
+global $firebird;
+global $browser;
+global $webpage;
+global $raw;
+global $seo;
+global $connection;
+global $mail;
+global $ftp;
+global $submitter;
+global $proxycheker;
+global $frame;
+global $form;
+global $body;
+global $anchor;
+global $div;
+global $footer;
+global $header;
+global $section;
+global $span;
+global $label;
+global $image;
+global $button;
+global $btn;
+global $listbox;
+global $script;
+global $input;
+global $inputfile;
+global $textarea;
+global $checkbox;
+global $radiobox;
+global $inputimage;
+global $element;
+global $embed;
+global $tr;
+global $td;
+global $th;
+global $h1;
+global $h2;
+global $h3;
+global $h4;
+global $h5;
+global $h6;
+global $video;
+
+?>
